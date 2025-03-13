@@ -1,0 +1,5 @@
+Chocolate 50 300 chocolate
+Caramel 10 50 caramel
+Gummy 20 100 fruit
+Waffle 30 200 wafer
+Jelly 15 80 berry
